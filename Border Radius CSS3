@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Border Radius</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+
+    <body>
+
+        <div><img src="Jokowidodo.jpg" alt=""></div>
+    
+    </body>
+</html>
+
+
+CSS
+div{
+    width: 400px;
+    height: 400px;
+    background-color: brown;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 400px;
+    overflow: hidden;
+}
+
+div img{
+    width: 400px;
+}
