@@ -1,0 +1,40 @@
+.kotak{
+    width: 200px;
+    height: 200px;
+    margin: 20px;
+    float: left;
+}
+
+.kotak1{
+    border: 10px solid skyblue;
+    border-radius: 10px;
+}
+
+.kotak2{
+    border: 10px solid red;
+    border-radius: 70px 0;
+}
+
+.kotak3{
+    border: 10px solid green;
+    border-radius: 50%;
+}
+
+.kotak4{
+    border: 10px solid blue;
+    border-radius: 100px 100px 0 0;
+    height: 90px;
+}
+
+.kotak5{
+    border: 10px solid blue;
+    border-radius: 0 0 100px 100px;
+    height: 90px;
+    margin-top: 150px;
+}
+
+.kotak6{
+    border: 10px solid yellow;
+    border-radius: 10px 100px 100px 10px;
+}
+
